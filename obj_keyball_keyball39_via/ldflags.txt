@@ -1,0 +1,1 @@
+-Wl,--gc-sections -Wl,-Map=.build/keyball_keyball39_via.map,--cref     -lm 
